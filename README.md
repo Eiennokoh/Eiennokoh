@@ -8,7 +8,12 @@ Accounting × ERP × AI
 - 生成AIを活用し、業務アプリを企画から実装まで開発
 
 ## Certifications
-SAP Certified（FI / CO / MM）・PMP・日商簿記2級・JLPT N1
+- SAP Certified - SAP S/4HANA Cloud Private Edition - Financial Accounting
+- SAP Certified - SAP S/4HANA Cloud Private Edition - Management Accounting
+- SAP Certified - SAP S/4HANA Cloud Private Edition - Sourcing and Procurement
+- PMP（Project Management Professional）
+- 日商簿記2級
+- JLPT N1
 
 ## Projects
 - [原価センタ配賦システム](https://github.com/Eiennokoh/cost-center-allocation-ts)：共通部門費の配賦と配賦仕訳の自動作成（TypeScript、React、GraphQL）｜[デモ](https://eiennokoh.github.io/cost-center-allocation-ts/)
