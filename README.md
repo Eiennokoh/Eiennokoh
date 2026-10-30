@@ -1,16 +1,14 @@
-## Hi there 👋
+# Koh Tetsuen
 
-<!--
-**Eiennokoh/Eiennokoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Accounting × ERP × AI
 
-Here are some ideas to get you started:
+## About
+- 証券会社で約9年、経営企画と業績管理を担当し、業務側としてERP・業績管理システムの導入に参画
+- 早稲田大学ビジネススクール在学中（管理会計・ERP）
+- 生成AIを活用し、業務アプリを企画から実装まで開発
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+SAP Certified（FI / CO / MM）・PMP・日商簿記2級・JLPT N1
+
+## Projects
+- [原価センタ配賦システム](https://github.com/Eiennokoh/cost-center-allocation-ts)：共通部門費の配賦と配賦仕訳の自動作成（TypeScript、React、GraphQL）｜[デモ](https://eiennokoh.github.io/cost-center-allocation-ts/)
