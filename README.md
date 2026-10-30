@@ -1,4 +1,4 @@
-# Koh Tetsuen
+# KOH Tetsuen
 
 Accounting × ERP × AI
 
