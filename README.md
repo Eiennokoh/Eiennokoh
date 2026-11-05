@@ -16,4 +16,5 @@ Accounting × ERP × AI
 - JLPT N1
 
 ## Projects
+- [生成AI 送信前チェック](https://github.com/Eiennokoh/ai-usage-guardrail)：顧客名・口座番号などを検知して仮名化・ブロックし、AIの回答も検証、部署別に利用量と費用を記録（TypeScript、Claude API）
 - [原価センタ配賦システム](https://github.com/Eiennokoh/cost-center-allocation-ts)：共通部門費の配賦と配賦仕訳の自動作成（TypeScript、React、GraphQL）｜[デモ](https://eiennokoh.github.io/cost-center-allocation-ts/)
